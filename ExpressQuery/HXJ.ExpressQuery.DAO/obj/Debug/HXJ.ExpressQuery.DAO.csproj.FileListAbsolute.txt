@@ -1,0 +1,4 @@
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.DAO\bin\Debug\HXJ.ExpressQuery.DAO.dll
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.DAO\bin\Debug\HXJ.ExpressQuery.DAO.pdb
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.DAO\obj\Debug\HXJ.ExpressQuery.DAO.dll
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.DAO\obj\Debug\HXJ.ExpressQuery.DAO.pdb

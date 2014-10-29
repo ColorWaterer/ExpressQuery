@@ -1,0 +1,5 @@
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IDAO\bin\Debug\HXJ.ExpressQuery.IDAO.dll
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IDAO\bin\Debug\HXJ.ExpressQuery.IDAO.pdb
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IDAO\obj\Debug\HXJ.ExpressQuery.IDAO.dll
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IDAO\obj\Debug\HXJ.ExpressQuery.IDAO.pdb
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IDAO\obj\Debug\HXJ.ExpressQuery.IDAO.csprojResolveAssemblyReference.cache
