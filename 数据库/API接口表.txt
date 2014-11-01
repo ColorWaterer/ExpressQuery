@@ -1,0 +1,5 @@
+API
+±àºÅ		Id int
+½Ó¿ÚµØÖ·	IPinterface string
+API ID		ApiID string
+Secret Key	SecretKey string

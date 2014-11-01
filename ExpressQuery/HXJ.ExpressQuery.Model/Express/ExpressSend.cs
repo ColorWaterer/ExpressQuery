@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace HXJ.ExpressQuery.Model
 {
     /// <summary>
-    /// 快递查询发送单
+    /// 快递查询发送模板
     /// </summary>
     public class ExpressSend
     {

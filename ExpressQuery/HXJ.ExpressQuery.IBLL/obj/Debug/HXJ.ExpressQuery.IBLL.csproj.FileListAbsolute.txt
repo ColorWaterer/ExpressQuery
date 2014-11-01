@@ -2,3 +2,4 @@ D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IBLL\bin\Debug\HXJ.Expr
 D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IBLL\bin\Debug\HXJ.ExpressQuery.IBLL.pdb
 D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IBLL\obj\Debug\HXJ.ExpressQuery.IBLL.dll
 D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IBLL\obj\Debug\HXJ.ExpressQuery.IBLL.pdb
+D:\GitProject\ExpressQuery\ExpressQuery\HXJ.ExpressQuery.IBLL\obj\Debug\HXJ.ExpressQuery.IBLL.csprojResolveAssemblyReference.cache

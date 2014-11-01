@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Express\ExpressGetLogs.cs" />
+    <Compile Include="Express\ExpressQueryLogs.cs" />
     <Compile Include="Express\ExpressSend.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
